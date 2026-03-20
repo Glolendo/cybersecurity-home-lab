@@ -1,0 +1,2 @@
+Observed DNS traffic and HTTPS packets
+Learning how network communication works
